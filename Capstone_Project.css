@@ -1,0 +1,40 @@
+/* Style Sheet for Capstone project
+ */
+
+/* h1, h2, p, form{
+
+  color: white;
+
+} */
+
+body{
+  background-color: #011627;
+  font-family: 'Tomorrow', sans-serif;
+  color: #FDFFFC;
+  text-align: center;
+  border: 40px solid #2EC486;
+  border-top: 0px;
+  margin: 0px;
+}
+
+p{
+  padding-top: 3%;
+  padding-left: 20%;
+  padding-right: 20%;
+
+}
+
+form{
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+#btn{
+  background-color: #FF9F1C;
+  height: 80px;
+  width: 150px;
+  margin: 4px;
+  margin-top: 12px;
+  font-size: 1em;
+  border-radius: 25px;
+}
